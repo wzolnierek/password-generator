@@ -9,11 +9,12 @@ passwordLengthInput.addEventListener("input", () => {
 
 let checkUppercase = document.getElementById("uppercase");
 
-function uncheckUppercase() {
-    if (checkBox.checked == false) {
+
+// function uncheckUppercase() {
+//     if (checkBox.checked == false) {
          
-    }
-}
+//     }
+// }
 
 
 
